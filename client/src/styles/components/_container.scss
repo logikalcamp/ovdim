@@ -1,0 +1,32 @@
+.main_container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.container {
+    display: flex;
+    max-width: 440px;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 5rem;
+
+    p{
+        color: #4F4F4F;
+        font-size: 12px;
+        margin: 12px 0 4px 0;
+    }
+    h2{
+        color: #4F4F4F;
+        text-align: center;
+    }
+    
+}
+
+.sub-container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 290px;
+}

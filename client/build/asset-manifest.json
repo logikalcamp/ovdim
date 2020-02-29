@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2eb130d1.chunk.css",
+    "main.js": "/static/js/main.a19991aa.chunk.js",
+    "main.js.map": "/static/js/main.a19991aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.de02a6b0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.de02a6b0.js.map",
+    "static/js/2.71991047.chunk.js": "/static/js/2.71991047.chunk.js",
+    "static/js/2.71991047.chunk.js.map": "/static/js/2.71991047.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.aebf4a2307fd41f4a40107c44efd79c3.js": "/precache-manifest.aebf4a2307fd41f4a40107c44efd79c3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2eb130d1.chunk.css.map": "/static/css/main.2eb130d1.chunk.css.map",
+    "static/js/2.71991047.chunk.js.LICENSE.txt": "/static/js/2.71991047.chunk.js.LICENSE.txt",
+    "static/media/Zofim-logo.png": "/static/media/Zofim-logo.241f2f03.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de02a6b0.js",
+    "static/js/2.71991047.chunk.js",
+    "static/css/main.2eb130d1.chunk.css",
+    "static/js/main.a19991aa.chunk.js"
+  ]
+}
