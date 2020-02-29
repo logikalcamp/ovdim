@@ -7,10 +7,10 @@ const LoginViaSmsPage = () => (
             <p>תעודת זהות *</p>
             <input />
             <p>טלפון נייד *</p>
-            <div className="code-input">
+            <form className="code-input">
                 <input />
                 <button disabled={false}>קבלת קוד</button>
-            </div>
+            </form>
             <p>קוד *</p>
             <input 
                 placeholder="יש להזין את הקוד שקיבלת"
